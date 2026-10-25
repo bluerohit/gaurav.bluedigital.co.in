@@ -1,0 +1,10 @@
+# Private notes — this repository is public
+analysis-*.md
+
+# Local tooling
+.claude/
+
+# OS clutter
+Thumbs.db
+desktop.ini
+.DS_Store
